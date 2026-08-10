@@ -1,22 +1,24 @@
-# Hi, I'm Gerardo 👋
+Hi, I'm Gerardo 👋
+Environmental Science student | GIS & Environmental Data Analysis | Remote Sensing | Python | R
 
-**Environmental Science student | GIS & Environmental Data Analysis | Remote Sensing | Python | R**
+I'm an Environmental Science student at Universidad Autónoma de Madrid (UAM) with a background in Marine Biology. My work focuses on geospatial analysis, remote sensing, environmental data processing, and ecological modeling using tools such as QGIS, ArcGIS, Google Earth Engine, Python, and R.
 
-I’m an Environmental Science student at **Universidad Autónoma de Madrid (UAM)** with a background in **Marine Biology**. My work focuses on **geospatial analysis, remote sensing, environmental data processing, and ecological modeling** using tools such as **QGIS, ArcGIS, Google Earth Engine, Python, and R**.
+Current Focus
 
-### Current Focus
+* Satellite imagery analysis with Google Earth Engine
+* GIS workflows in QGIS and ArcGIS
+* Environmental data analysis with Python and R
+* Building a portfolio of geospatial projects related to Peru and Spain
 
-* Satellite imagery analysis with **Google Earth Engine**
-* GIS workflows in **QGIS and ArcGIS**
-* Environmental data analysis with **Python and R**
-* Building a portfolio of geospatial projects related to **Peru and Spain**
+Featured Projects
 
-### Featured Project
+* **[Vegetation Cover Loss Monitoring — Madre de Dios, Peru](https://github.com/GMerino05/deforestation-madre-de-dios)**
+  Detected and quantified 581.82 hectares of vegetation loss (2016–2024) using Sentinel-2 imagery in Google Earth Engine, with final cartographic output designed in QGIS.
 
-* **Urban Expansion and Vegetation Loss in Lima (2018–2025)**
+* **Urban Expansion and Vegetation Loss in Lima (2018–2025)** *(in progress)*
   Analysis of Sentinel-2 imagery to quantify vegetation loss and urban expansion across Lima Metropolitan Area using Google Earth Engine.
 
-### Technical Skills
+Technical Skills
 
 * GIS: QGIS, ArcGIS, ArcGIS Online
 * Remote Sensing: Google Earth Engine
@@ -24,16 +26,17 @@ I’m an Environmental Science student at **Universidad Autónoma de Madrid (UAM
 * Environmental Analysis & Statistics
 * Data Visualization & Technical Reporting
 
-### Languages
+Languages
 
 * Spanish (Native)
 * English (B1)
 * Italian (Intermediate)
 * German (Learning)
 
-### Connect with me
+Connect with me
 
-* **LinkedIn:** [www.linkedin.com/in/gerardo-alejandro-merino-mohme-0ab997271](http://www.linkedin.com/in/gerardo-alejandro-merino-mohme-0ab997271)
-* **Email:** [gerardomerino2005@gmail.com](mailto:gerardomerino2005@gmail.com)
+* LinkedIn: [www.linkedin.com/in/gerardo-alejandro-merino-mohme-0ab997271](https://www.linkedin.com/in/gerardo-alejandro-merino-mohme-0ab997271)
+* Email: [gerardomerino2005@gmail.com](mailto:gerardomerino2005@gmail.com)
 
+I'm actively seeking remote international opportunities in GIS, geospatial data analysis, environmental research, and technical data roles.
 I’m actively seeking **remote international opportunities** in GIS, geospatial data analysis, environmental research, and technical data roles.
